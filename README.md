@@ -19,6 +19,27 @@ This project is a comprehensive **Library Management System** developed using Py
 - **Object-Oriented Programming (OOP)**: Design approach for creating modular and reusable code.
 - **Database Management System (DBMS)**: Principles for data storage, retrieval, and management.
 
+## Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/yourusername/your-repository.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd your-repository
+    ```
+
+3. Ensure you have Python installed (Python 3.6 or higher is recommended).
+
+4. Run the `GUIManager.py.py` file to start the application:
+
+    ```bash
+    python main.py
+    ```
 ## Usage
 
 Upon running `GUIManager.py.py`, a command-line menu will be displayed, allowing you to perform various operations:
