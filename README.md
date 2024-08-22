@@ -15,8 +15,9 @@ This project is a comprehensive **Library Management System** developed using Py
 ## Technologies Used
 
 - **Python**: Programming language used for development.
-- **SQLite**: Lightweight database used for data storage.
-- **Object-Oriented Programming**: Design approach for creating modular and reusable code.
+- **SQLite**: Lightweight database management system used for data storage.
+- **Object-Oriented Programming (OOP)**: Design approach for creating modular and reusable code.
+- **Database Management System (DBMS)**: Principles for data storage, retrieval, and management.
 
 ## Usage
 
