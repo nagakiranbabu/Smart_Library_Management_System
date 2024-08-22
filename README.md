@@ -20,7 +20,7 @@ This project is a comprehensive **Library Management System** developed using Py
 
 ## Usage
 
-Upon running `main.py`, a command-line menu will be displayed, allowing you to perform various operations:
+Upon running `GUIManager.py.py`, a command-line menu will be displayed, allowing you to perform various operations:
 
 1. Add a book
 2. Print all books
