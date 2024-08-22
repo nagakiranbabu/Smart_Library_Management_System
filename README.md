@@ -1,4 +1,4 @@
-# Library Management System
+# Smart Library Management System
 
 ## Overview
 
