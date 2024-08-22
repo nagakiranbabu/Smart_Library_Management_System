@@ -59,10 +59,6 @@ Follow the on-screen prompts to interact with the system.
 
 Contributions to this project are welcome. Please open an issue or submit a pull request for any suggestions or improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - SQLite documentation for database management insights.
